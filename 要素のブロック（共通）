@@ -1,0 +1,345 @@
+要素のブロック共通
+
+iPhone要素のブロック［パソコン開発モードで作成］
+
+m.yahoo.co.jp###ssp_ydn_88233_237413
+m.yahoo.co.jp###st_all > div > div.All_StreamAll__content__GCH_X > section:last-child > div:last-child > ul.Quriosity_Quriosity__2SV48:first-child > li.Quriosity_Quriosity__listItem__pgvYR:nth-child(27) > div.Quriosity_Quriosity__listItemInner__poFfE > div.ArticleBox_ArticleBox__Z3L_F.Comic.theme-Kisekae__backgroundColor--A7.theme-Kisekae__afterPseudoBackgroundColor--B6.ArticleBox_ArticleBoxHasBorder__D4wgR
+news.yahoo.co.jp###MtoC > div.MtoCHeader:last-child > a.MtoCLink > ul.MtoCHeaderInner
+news.yahoo.co.jp###MtoC > div.MtoCHeader:last-child > a.MtoCLink
+news.yahoo.co.jp###uamods-article > div.sc-1u3jee4-0.cKjzPJ:last-child
+news.yahoo.co.jp###inf_mid
+news.yahoo.co.jp###sf > div.riff-Stack__item.riff-mt-5:nth-child(2) > div.riff-flex.riff-flex-col.riff-items-center
+news.yahoo.co.jp###sf > div.riff-Stack__item.riff-mt-5:last-child > div.riff-text-center > small.riff-block.riff-text-xx-small:first-child
+news.yahoo.co.jp###sf > div.riff-Stack__item.riff-mt-5:last-child > div.riff-text-center > small.riff-block.riff-text-xx-small:last-child
+news.yahoo.co.jp###uamods > div.sc-65w0gi-0.jOusgq:nth-child(4)
+news.yahoo.co.jp###contents > div.sc-1hp47c8-0.ctVTzT:first-child > aside.sc-fz07dm-0.hYKix:last-child > a.sc-fz07dm-1.ccTcfp
+news.yahoo.co.jp###contents > div.sc-1hp47c8-0.ctVTzT:first-child > aside.sc-fz07dm-0.hYKix:nth-child(4)
+news.yahoo.co.jp###uamods > div.sc-65w0gi-0.jOusgq:nth-child(5)
+news.yahoo.co.jp###uamods-recommend > ol.newsFeed_list:last-child > li.sc-10xpxym-0.czWjEt.newsFeed_item.newsFeed_item-normal.viewableWrapper:nth-child(21) > a.newsFeed_item_link
+news.yahoo.co.jp###uamods > section.sc-1q6ro6z-0.gJxPpl:nth-child(6)
+news.yahoo.co.jp###contents > div.sc-1hp47c8-0.ctVTzT:first-child > aside.sc-fz07dm-0.hYKix:nth-child(5) > a.sc-fz07dm-1.ccTcfp
+news.yahoo.co.jp###uamods > header.sc-1haexwf-0.gKLMTI:first-child > div.sc-1haexwf-3.SaaPS:last-child > div.sc-1haexwf-4.cUDcyu:first-child > div.sc-1haexwf-6.kBpSBu:first-child
+news.yahoo.co.jp###uamods > header.sc-1haexwf-0.gKLMTI:first-child > div.sc-1haexwf-3.SaaPS:last-child > div.sc-1haexwf-5.jGCaaR:last-child > div.sc-1haexwf-7.eskxkc:first-child > span.sc-1haexwf-8.dQoVIf:first-child > a.sc-wk4feo-0.gRMTqY > span.sc-wk4feo-1.hsWcdz
+news.yahoo.co.jp###uamods > header.sc-1haexwf-0.gKLMTI:first-child > div.sc-1haexwf-3.SaaPS:last-child > div.sc-1haexwf-5.jGCaaR:last-child > div.sc-1haexwf-7.eskxkc:first-child
+news.yahoo.co.jp###uamods > section.sc-1q6ro6z-0.gJxPpl:nth-child(5)
+news.yahoo.co.jp###uamods-article > div:first-child > header.sc-409r7k-0.bDsACr:first-child > div.sc-409r7k-2.fYtHtm:nth-child(2) > div.sc-409r7k-16.gGmXqw.follow.yjxFollow-header:last-child
+news.yahoo.co.jp###uamods-article > div:first-child > header.sc-409r7k-0.bDsACr:first-child > div.sc-1wnmln4-0.cnVfMx:last-child
+news.yahoo.co.jp###contents > div.sc-oyqbxz-0.gliKdR:nth-child(2) > div.sc-fdays0-0.bLvgmT:last-child
+news.yahoo.co.jp###contents > section.sc-9286mw-0.iFRjlt:nth-child(5) > header.sc-pe59w6-0.krnEBH:first-child
+m.yahoo.co.jp###st_all > div > div.All_StreamAll__content__GCH_X > section:last-child > div:last-child > ul.Quriosity_Quriosity__2SV48:first-child > li.Quriosity_Quriosity__listItem__pgvYR:nth-child(15) > div.Quriosity_Quriosity__listItemInner__poFfE > aside.ArticleBox_ArticleBox__Z3L_F.theme-Kisekae__backgroundColor--A7.theme-Kisekae__afterPseudoBackgroundColor--B6.ArticleBox_ArticleBoxHasBorder__D4wgR > a.TimelineTargeting_TimelineTargeting__link__m1N8n:last-child
+
+!LINEスタンプ
+yahoo.co.jp##aside[class^="ArticleBox_ArticleBox__Z3L_F Timeline_Timeline__O_4dZ ArticleBox_ArticleBoxHasBorder__D4wgR"]
+ 
+!毎日無料まんが
+yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
+yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
+
+
+i-pad要素のブロック【uBlock Origin】
+
+! 2024/06/30 https://www.yahoo.co.jp
+www.yahoo.co.jp##.uKekifkJpifyfCu3dT494._18Y5F9M1FtUYbDxoMln3x7 > div > div
+www.yahoo.co.jp###Service
+www.yahoo.co.jp###Scoreboard > .-DmdTfmK9dpsdI1vggc-z._2wxmE85OIsKrFYkvsJ2Tu1._1nJ39BFpWaPCIWutB-olO8
+www.yahoo.co.jp##._2dqDKArI6iGaA3nS7xNUmE > dl > dd
+www.yahoo.co.jp##._6iDyy-CUks251J9k1epBP
+www.yahoo.co.jp###biz > .-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._1nJ39BFpWaPCIWutB-olO8
+www.yahoo.co.jp###csr
+www.yahoo.co.jp###info > .-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._1nJ39BFpWaPCIWutB-olO8
+www.yahoo.co.jp##._3xukxCAE743j74vJXUPhiL > div
+www.yahoo.co.jp##._3ENWZejXZd0Cpi58_B5sQ2
+
+! 2024/06/30 https://m.yahoo.co.jp
+||s.yimg.jp/images/yjtop-common/event/other/11_ytop_targeting_banner_0618.png$image
+m.yahoo.co.jp##.TimelineTargeting_TimelineTargeting__link__m1N8n
+
+! 2024/06/30 https://www.yahoo.co.jp
+www.yahoo.co.jp##.QoCp7KDEt29FbN5hCjsCx
+www.yahoo.co.jp##.ult__mods._2QahXuxbGDu3Fk1Qrrh3AA
+
+! 2024/06/30 https://news.yahoo.co.jp
+news.yahoo.co.jp###uhd_offer04 > .compo > .txt > [href]
+news.yahoo.co.jp##.fhbDyl.sc-1haexwf-6
+news.yahoo.co.jp##.kMZqZS.sc-11evj1b-0
+news.yahoo.co.jp##.jOusgq.sc-65w0gi-0
+||s.yimg.jp/images/yjtop-app/promo/banner/w2a_news/kiji_a/750x234_01.png$image
+
+! 2024/07/01 https://news.yahoo.co.jp
+news.yahoo.co.jp###uhd_offer02 > .compo > .txt
+news.yahoo.co.jp###mhHelpLink
+||s.yimg.jp/images/yjtop-app/promo/banner/w2a_news/kiji_c/750x234_03.png$image
+||s.yimg.jp/images/yjtop-app/promo/banner/w2a_news/kiji_d/750x234_04.png$image
+news.yahoo.co.jp###uhd_offer01 > .compo > .txt > [href]
+news.yahoo.co.jp###uhd_offer00 > .compo > .txt
+news.yahoo.co.jp###uhd_offer03 > .compo > .txt
+news.yahoo.co.jp##.fFgzQL.sc-5gkwpc-0
+news.yahoo.co.jp##.gSLKkb.sc-uzx6gd-0
+news.yahoo.co.jp##.hLzvcB.sc-1n9vtw0-0
+
+! 2024/07/02 https://news.yahoo.co.jp
+||s.yimg.jp/c/icon/s/bsc/2.1/s/shopping40.png$image
+news.yahoo.co.jp###mhIconWrap
+news.yahoo.co.jp##li.kMKDnI.sc-1mps4g6-2:nth-of-type(8)
+news.yahoo.co.jp##.ePEyIs.sc-1qf3xwl-0 > .riff-flex-row.riff-flex
+
+! 2024/07/03 https://www.yahoo.co.jp
+www.yahoo.co.jp##._15h66qPnVy4iQzPepgAaiY
+www.yahoo.co.jp##._2TzkLph0QyL9hAv5c53WeY
+www.yahoo.co.jp###biz > .-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._1nJ39BFpWaPCIWutB-olO8
+www.yahoo.co.jp###csr
+www.yahoo.co.jp###info
+www.yahoo.co.jp###Scoreboard
+www.yahoo.co.jp###Service
+www.yahoo.co.jp##._2b-NSOdsHW_EgvhaQs47n-
+www.yahoo.co.jp##._2dqDKArI6iGaA3nS7xNUmE > dl > dd
+www.yahoo.co.jp##.QoCp7KDEt29FbN5hCjsCx
+www.yahoo.co.jp##.ult__mods._2QahXuxbGDu3Fk1Qrrh3AA
+
+! 2024/07/03 https://news.yahoo.co.jp
+news.yahoo.co.jp###uhd_offer03 > .compo > .txt
+news.yahoo.co.jp###mhHelpLink
+news.yahoo.co.jp###uhd_offer05 > .compo
+news.yahoo.co.jp###uhd_offer00 > .compo
+news.yahoo.co.jp###uhd_offer02 > .compo
+news.yahoo.co.jp###uhd_offer04 > .compo
+news.yahoo.co.jp##.ifjnLp.sc-1er37uk-0
+news.yahoo.co.jp##.ePEyIs.sc-1qf3xwl-0
+news.yahoo.co.jp##.feutjo.sc-1ndg0qx-11 > .riff-flex-row.riff-flex
+news.yahoo.co.jp##.gSLKkb.sc-uzx6gd-0
+news.yahoo.co.jp##.hLzvcB.sc-1n9vtw0-0
+news.yahoo.co.jp##.fFgzQL.sc-5gkwpc-0
+news.yahoo.co.jp###uhd_offer01 > .compo > .txt
+
+! 2024/07/03 https://www.yahoo.co.jp
+www.yahoo.co.jp###clvmoduleeccllinkaucusvcclposition0 > .-DmdTfmK9dpsdI1vggc-z._2wxmE85OIsKrFYkvsJ2Tu1._1nJ39BFpWaPCIWutB-olO8
+www.yahoo.co.jp###clvmoduleec2cllinkshptsvcclposition0 > .-DmdTfmK9dpsdI1vggc-z._2wxmE85OIsKrFYkvsJ2Tu1._1nJ39BFpWaPCIWutB-olO8
+
+! 2024/07/03 https://news.yahoo.co.jp
+news.yahoo.co.jp##.footerNavigation.ggjbER.sc-15iia5a-0
+news.yahoo.co.jp##.riff-ml-1.riff-Stack__item > .riff-text-current > path
+
+! 2024/07/04 https://www.yahoo.co.jp
+www.yahoo.co.jp##._2GgoW-JhoKrRggHVGT_l01
+www.yahoo.co.jp##article._3S2Q2j3wAQxbug02Q7t3dO:nth-of-type(14) > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._1ayyrUoOJeoE6w2hd09HV2
+www.yahoo.co.jp##._2dkkFdF6iwwsvj59371Trg
+||s.yimg.jp/images/bbservice/shopping/banner/center008_shop_231001.png$image
+www.yahoo.co.jp##.ult__mods._5OxMn_0LtFKbAsQsmt33_
+www.yahoo.co.jp##.-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._2wxmE85OIsKrFYkvsJ2Tu1._1nJ39BFpWaPCIWutB-olO8
+
+! 2024/07/05 https://www.yahoo.co.jp
+www.yahoo.co.jp##._39bsyXI766slVaQ8YaCP7e._2KSAVmekATGu43KySZB31Z
+
+! 2024/07/05 https://news.yahoo.co.jp
+||s.yimg.jp/images/shp_edit/other/fc/mhd/npre_k.png$image
+news.yahoo.co.jp###mhSearch
+news.yahoo.co.jp##.iansBY.sc-1mps4g6-2
+news.yahoo.co.jp##.hdfiKA.sc-icb4tv-1
+news.yahoo.co.jp##.hxoMQt.sc-gdv5m1-6 > .gicXXt.sc-1ihaq3m-0
+news.yahoo.co.jp##.MkOEa.sc-yl661w-0 > .riff-flex-row.riff-flex
+news.yahoo.co.jp##.gBGumk.sc-80bolc-0
+news.yahoo.co.jp##.crKUnL.sc-13hl9r1-0
+
+! 2024/07/06 https://news.yahoo.co.jp
+news.yahoo.co.jp##.hxoMQt.sc-gdv5m1-6
+
+! 2024/07/11 https://news.yahoo.co.jp
+news.yahoo.co.jp###uhd_offer06 > .compo > .txt
+
+! 2024/07/13 https://news.yahoo.co.jp
+news.yahoo.co.jp##.ccGRVy.sc-z2ska1-0
+news.yahoo.co.jp##li.kMKDnI.sc-1mps4g6-2:nth-of-type(6)
+news.yahoo.co.jp##.viewableWrapper.gffnFR.sc-9v2e72-0.ehybSs.sc-tfydv5-0
+news.yahoo.co.jp##.viewableWrapper.lhwLmK.sc-w8o3u1-0.ehybSs.sc-tfydv5-0
+
+! 2024/07/14 https://www.yahoo.co.jp
+www.yahoo.co.jp##li:nth-of-type(35) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(34) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(31) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(30) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(33) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(29) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(28) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(27) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(26) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(25) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(24) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(21) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(20) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(19) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(18) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(17) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(16) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(14) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(13) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(11) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(10) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(9) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(8) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(7) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(6) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(5) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+www.yahoo.co.jp##li:nth-of-type(4) > ._3Ip8DQAJYKfPeByyVN-utZ > .cl-nofollow._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2bBRLhI5ZpVYu0tuHZEFrn
+
+! 2024/07/14 https://news.yahoo.co.jp
+news.yahoo.co.jp##.kpjOPF.sc-1ak5zlk-0
+||s.yimg.jp/c/icon/s/bsc/2.1/a/auctions40.png$image
+news.yahoo.co.jp###mhUserIcon
+
+! 2024/07/14 https://crowdsourcing.yahoo.co.jp
+crowdsourcing.yahoo.co.jp###uhd_offer05 > .compo > .txt
+crowdsourcing.yahoo.co.jp###uhd_offer00 > .compo > .txt
+crowdsourcing.yahoo.co.jp###mhHelpLink
+crowdsourcing.yahoo.co.jp###mhSearch
+crowdsourcing.yahoo.co.jp###mhUserIcon
+crowdsourcing.yahoo.co.jp###seoArea
+
+! 2024/07/14 https://news.yahoo.co.jp
+news.yahoo.co.jp##.hKKRl.sc-q9fg9u-0
+
+! 2024/07/14 https://crowdsourcing.yahoo.co.jp
+crowdsourcing.yahoo.co.jp###uhd_offer03 > .compo > .txt
+crowdsourcing.yahoo.co.jp##.yjS
+
+! 2024/07/14 https://task-crowdsourcing.yahoo.co.jp
+task-crowdsourcing.yahoo.co.jp###uhd_offer05 > .compo > .txt
+task-crowdsourcing.yahoo.co.jp###mhHelpLink
+task-crowdsourcing.yahoo.co.jp###mhSearchBox > form
+task-crowdsourcing.yahoo.co.jp###mhUserIcon
+task-crowdsourcing.yahoo.co.jp##.yjS
+
+! 2024/07/14 https://toku.yahoo.co.jp
+toku.yahoo.co.jp###uhd_offer00 > .compo > .txt
+toku.yahoo.co.jp##form
+toku.yahoo.co.jp###mhUserIcon
+toku.yahoo.co.jp###sf
+
+! 2024/07/14 https://calendar.yahoo.co.jp
+calendar.yahoo.co.jp###uhd_offer05 > .compo > .txt
+calendar.yahoo.co.jp###mhLinkHelp
+calendar.yahoo.co.jp###mhSearch
+calendar.yahoo.co.jp###mhUserIcon
+calendar.yahoo.co.jp##.js-Footer.Footer
+
+! 2024/07/14 https://transit.yahoo.co.jp
+transit.yahoo.co.jp###uhd_offer02 > .compo > .txt
+transit.yahoo.co.jp###mhSearch
+transit.yahoo.co.jp###mhHelpLink
+transit.yahoo.co.jp###mhUserIcon
+transit.yahoo.co.jp###mdServiceLink
+transit.yahoo.co.jp###sf
+
+! 2024/07/14 https://toku.yahoo.co.jp
+toku.yahoo.co.jp###uhd_offer01 > .compo > .txt
+
+! 2024/07/14 https://calendar.yahoo.co.jp
+calendar.yahoo.co.jp###uhd_offer04 > .compo > .txt
+
+! 2024/07/14 https://transit.yahoo.co.jp
+transit.yahoo.co.jp###uhd_offer00 > .compo > .txt
+transit.yahoo.co.jp###uhd_offer04 > .compo > .txt
+
+! 2024/07/14 https://toku.yahoo.co.jp
+toku.yahoo.co.jp###uhd_offer04 > .compo > .txt
+
+! 2024/07/14 https://crowdsourcing.yahoo.co.jp
+crowdsourcing.yahoo.co.jp###uhd_offer04 > .compo > .txt
+
+! 2024/07/14 https://transit.yahoo.co.jp
+transit.yahoo.co.jp###uhd_offer05 > .compo > .txt
+
+! 2024/07/14 https://weather.yahoo.co.jp
+weather.yahoo.co.jp###uhd_offer02 > .compo > .txt
+weather.yahoo.co.jp###uhd_offer03 > .compo > .txt
+weather.yahoo.co.jp###mhUserIcon
+weather.yahoo.co.jp###mhSearch
+weather.yahoo.co.jp##address
+weather.yahoo.co.jp###mhHelpLink
+weather.yahoo.co.jp###uhd_offer06 > .compo > .txt
+||s.yimg.jp/images/weather/promo/banner/bnr_weatherapp_2015_950_250.png$image
+weather.yahoo.co.jp###uhd_offer05 > .compo
+
+! 2024/07/14 https://transit.yahoo.co.jp
+transit.yahoo.co.jp##.MtoCLink
+||s.yimg.jp/images/templa/mhd/v2/images/yjsmhIconUtility.png$image
+||s.yimg.jp/images/templa/mhd/v2/images/icn_search_a.png$image
+
+! 2024/07/14 https://map.yahoo.co.jp
+map.yahoo.co.jp##.Footer
+
+! 2024/07/14 https://toku.yahoo.co.jp
+toku.yahoo.co.jp###mhHelpLink
+toku.yahoo.co.jp###uhd_offer03 > .compo
+
+! 2024/07/14 https://weather.yahoo.co.jp
+weather.yahoo.co.jp###uhd_offer00 > .compo > .txt
+weather.yahoo.co.jp###mhHelpLink
+weather.yahoo.co.jp###mhSearch
+weather.yahoo.co.jp###mhInfos
+||s.yimg.jp/images/weather/promo/banner/bnr_weatherapp_2015_950_250.png$image
+
+! 2024/07/14 https://paypay.yahoo.co.jp
+paypay.yahoo.co.jp###uhd_offer03 > .compo
+paypay.yahoo.co.jp###mhLinkHelp
+paypay.yahoo.co.jp###mhSearch
+||s.yimg.jp/c/icon/s/bsc/2.1/s/shopping40.png$image
+paypay.yahoo.co.jp##.footnote
+
+! 2024/07/14 https://store.shopping.yahoo.co.jp
+store.shopping.yahoo.co.jp##.ImportantMessage__item--information____20131.ImportantMessage__item____20131
+
+! 2024/07/14 https://shopping.yahoo.co.jp
+shopping.yahoo.co.jp##.ImportantMessage__item--information____20131.ImportantMessage__item____20131
+
+! 2024/07/14 https://crowdsourcing.yahoo.co.jp
+crowdsourcing.yahoo.co.jp###uhd_offer06 > .compo > .txt
+crowdsourcing.yahoo.co.jp###uhd_offer02 > .compo
+crowdsourcing.yahoo.co.jp###uhd_offer01 > .compo
+
+! 2024/07/14 https://map.yahoo.co.jp
+map.yahoo.co.jp##.Announcement__messages
+
+! 2024/07/17 https://www.yahoo.co.jp
+www.yahoo.co.jp##.ult__mods._3wZKJtfV8AYYaTP-zoyO9O
+
+! 2024/07/19 https://news.yahoo.co.jp
+news.yahoo.co.jp###mhHeadLine
+
+! 2024/07/21 https://www.yahoo.co.jp
+www.yahoo.co.jp##.ult__mods._21J8i-UDMq6E9p0JjDxgZy
+
+! 2024/07/23 https://shopping.yahoo.co.jp
+shopping.yahoo.co.jp##.Masthead__mainBox____20135
+shopping.yahoo.co.jp##li.Masthead__link____20135:nth-of-type(2)
+
+shopping.yahoo.co.jp##li.Masthead__link____20135 > [href="https://support.yahoo-net.jp/PccShopping/s/"]
+shopping.yahoo.co.jp##.ImportantMessage__item--information____20135.ImportantMessage__item____20135
+
+! 2024/07/23 https://www.yahoo.co.jp
+www.yahoo.co.jp##._1wf30cBtHv6aK8mAYdYbuo
+
+! 2024/07/23 https://weather.yahoo.co.jp
+weather.yahoo.co.jp###uhd_offer01 > .compo
+weather.yahoo.co.jp###rbnr
+
+! 2024/08/04
+yahoo.co.jp##li[class="_2wMdVO6wAf3-0DnWkjTY0b"]
+search.yahoo.co.jp##div[class="mhdBanner__promotion"]
+search.yahoo.co.jp##input[id="mhdSearchBoxInput"]
+search.yahoo.co.jp##form[class="mhdSearchBox"]
+news.yahoo.co.jp##div[id="mhRatelimitInfo"][class="mhUserInfo"][style="display: flex;"]
+news.yahoo.co.jp##button[class="sc-1ihaq3m-1 DJIkG"][data-cl-params="_cl_vmodule:cmtmod;_cl_link:profimg;_cl_position:1;"][data-cl_cl_index="64"]
+news.yahoo.co.jp##span[class="sc-1ihaq3m-3 bnFTAj"][aria-hidden="true"]
+
+
+SOULブラウザで作成（2024.8.9）
+yahoo.co.jp##li[class="_2wMdVO6wAf3-0DnWkjTY0b"]
+news.yahoo.co.jp##div[class="sc-1y0aijw-0 cyaYcX"]
+yahoo.co.jp##a[href$="rd?ep=AzRRtWYAAC363UIZCl077unH5n5gIUOg1xOen8NJAYP-PJD4fc0c9NroAUJrItHUZFHm4_i4FPSrrkoona7kQTZNjaob24xvKRqNXzfsYATfmn-FEAZlVOiQJ8Uv0QIxivyAK4hRMXVVHmZoMD7BUNNUzzQtrIJFq0-LcPBy9e9TuSr2DF9Lyk7e-Dn4hk-3WJkpnoWmV4eJ2xvCBf-qpU5wND6cUobhrFlYfyPEFw3dK6LkgqtpeNQqahuTYKLnzBBAnFrS6pA4swMTzQkWbQipuoedg2qhQQR3sWwQ0PCJtjb0kefc4VD-DfK5Yxgjtf9Ocgq6v96LzgoLOGGHthFEwLjxxlpwhmkyCaXAWzdurTXm-5-YFLKo5UJXWKjrxr7kmLdbGGCigektH2lAEO5dfXkCXv0v5SKqvivJeYqxLU63JNwnrQ8O629TYPvIoIT6HDhysak0NL_eJ969D21j9aYzICshb-UKrBD6YKsG3WW2jQEIzcYzzW6quDYo_0jINcTSo9Q1eepW7lLLFvHT7ZUi51SOPl7kip04mDZuAXYehq1HT6qjjEb9apDHLa3cMZ_p0g4xRwdR8DEk74KYvjOT9T-EbzUPMJamQjddOfkfP_zaxWGkAgdOXimemoHUrBo-FZ3H8pmtZWfclI-jo1ULsw3vGj0vO50nBKVZL5KQSrxjFIEFHfISMnsE9cLkUDNL83dUPOcBz49Bt8tjSHGcwddN0P7J63wJ4dVsa4H4Uwwrs3x4At6DWxR2evC92XbHWgUpWIvhhEJsoVt2a3dDAjhY46IFB0w9s-Dy3-3Rr0_jk5967dkHV0cmO78uY9MKmlq81OD1xSFuSMeCPr7AbVhfWE5UQ4hkfNxGEeEbuEVx-7OlqKOiCoIqzwYn_1Oe1iuhsiKd0zcMlmQklNFYRyAWvyPPWz0L-Mrsc5C_6eez9T2qLIVoHNIJ63Ou77T2Z2riN9sd8Ok_eaVauVIOvSXv94pCoOmUkw_VKn0CkySNXeuSLRMkRvy3hRMdD72r6K1imXVmnf4_oCdY6udX_NIqnbv6AsiqiXuXtY_ZWnC0FksHltjmjl6tSNjg9fm7u71R1S1kxnACUwndQChrdSe3Q6iRK7r2ZESYLLZrjlqC5hDrINj7ljCWDJuf98NJW_597VNw6PddWdDG_XaGCPfvupZ16M97-RmpDRGJpgEOCK4pj1avgtxSf5edmcNUvZMAskSbYeEjt8CMoQtinAeOj4QpcS8AJUGYhco_jDBKk-zO3_GtuIyTNGxF3cq36UPM6kNeZB_WWSo6WIkvyWnNZNpI03VBx8Zc59UG1JKeAKaivLd6l8mCYJ_L3jc-z8ktSL1UE-q3ZF5l4cDjAdZwrYkPmgZl4xuZzioBCtpYYd0DSQ25A9pfbb90K4kUhyCKtoE13A3MQtO1RPHQ6T0qcJo3N_7RdSGcnS9R3kGjHMIW7gY7N-NLsuiA7l4o_IuI&v=5"]
+yahoo.co.jp##div[data-ydntxt-item="1"]>div
+yahoo.co.jp##div[id="REALTIME"][class="_2kb9_zl7GL2Zut9TODd_g3"]
+yahoo.co.jp##footer[id="footer"][role="contentinfo"][class="_2GpKo0TlJwonmUj2nqQxuE ult__mods"]
+
+! 2024/08/09 https://www.yahoo.co.jp
+www.yahoo.co.jp##article._3S2Q2j3wAQxbug02Q7t3dO:nth-of-type(8)
+
